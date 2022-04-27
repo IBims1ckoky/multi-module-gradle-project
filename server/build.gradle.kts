@@ -8,3 +8,5 @@ plugins {
 dependencies {
 
 }
+
+description = "NetheriteMC-server"
